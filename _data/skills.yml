@@ -5,7 +5,7 @@
   name: Client-Server REST
   level: 90%
 - skill:
-  name: MVC pattern
+  name: MVC,MPV,VIPER pattern
   level: 90%
 - skill:
   name: JSON
@@ -22,9 +22,13 @@
 - skill:
   name: Objective-C
   level: 75%
+   - skill:
+  name: SCRUM
+  level: 70%
 - skill:
   name: Java Script
   level: 40%
 - skill:
   name: Java-Android
   level: 40%
+
