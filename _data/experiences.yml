@@ -1,6 +1,16 @@
 - experience:
+  role: SR iOS Developer
+  time: May 2018 - Present
+  company: QuantumMobile, León,Gto
+  details: "I´m developing new modules for the app transfer TELCEL and refactoring the code"
+- experience:
+  role: SR iOS Developer
+  time: March 2018 - April 2018
+  company: Globant, CDMX
+  details: "I developed new scrrens for HSBC Mexico financial advisor and add the spanish language"
+- experience:
   role: iOS Developer
-  time: 2016 - Present
+  time: 2016 - March 2018
   company: Grupo Salinas, CDMX
   details: "Building and publishing iOS applications with MDM apple server.
   I developed Wrapper financial advisor and Banco Empresarial Azteca (BEA) apps."
