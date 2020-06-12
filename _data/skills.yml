@@ -4,8 +4,14 @@
 - skill:
   name: Client-Server REST
   level: 90%
+  - skill:
+  name: TestFlight
+  level: 90%
+  - skill:
+  name: Provisional Profile, identifier, APNS, CER
+  level: 90%
 - skill:
-  name: MVC,MPV,VIPER pattern
+  name: MVC,MVP,VIPER pattern
   level: 90%
 - skill:
   name: JSON
@@ -21,14 +27,14 @@
   level: 90%
 - skill:
   name: Objective-C
-  level: 75%
+  level: 35%
 - skill:
   name: SCRUM
-  level: 70%
+  level: 90%
 - skill:
   name: Java Script
-  level: 40%
+  level: 25%
 - skill:
   name: Java-Android
-  level: 40%
+  level: 25%
 
